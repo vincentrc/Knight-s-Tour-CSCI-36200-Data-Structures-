@@ -1,1 +1,1 @@
-This program generates a Knight's Tour for given starting positions on a chessboard. Please see the report for info. 
+This program generates a Knight's Tour for given starting positions on a chessboard. It performs a depth-first-search on the chessboard by pushing and popping possible moves onto a stack until a solution is found. Please see the report for info. 
